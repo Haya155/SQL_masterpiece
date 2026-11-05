@@ -1,10 +1,3 @@
--- =====================================================================
---  HOMEmind database  (SQL Server)
---  Run the file in parts, in this order:
---   1) create database + tables   2) insert data   3) queries / views / procedures
---  Every "go" line separates a batch (create view / create procedure must start a batch).
--- =====================================================================
-
 create database HomeMind;
 go
 
